@@ -1,7 +1,7 @@
 {
   "name": "mortgagecontrol",
   "version": "0.1.0",
-  "homepage": "http://MortgagesTeam.github.io/ProductSelector",
+  "homepage": "https://MortgagesTeam.github.io/ProductSelector",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
