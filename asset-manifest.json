@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ProductSelector/static/css/main.d1982817.css",
-    "main.js": "/ProductSelector/static/js/main.b7b010b6.js",
-    "static/media/HomeBanner.jpg": "/ProductSelector/static/media/HomeBanner.1632540e953a83df4904.jpg",
-    "static/media/ContactImage.png": "/ProductSelector/static/media/ContactImage.dc8d51c46f8e28e5195f.png",
-    "static/media/FactFindImage.jpg": "/ProductSelector/static/media/FactFindImage.5be524879cf8380dd5e7.jpg",
-    "static/media/AboutImage.jpg": "/ProductSelector/static/media/AboutImage.420d27b6f512584bcfe3.jpg",
-    "index.html": "/ProductSelector/index.html",
-    "main.d1982817.css.map": "/ProductSelector/static/css/main.d1982817.css.map",
-    "main.b7b010b6.js.map": "/ProductSelector/static/js/main.b7b010b6.js.map"
+    "main.css": "/mortgagesteam.github.io/product-selector/static/css/main.55663f9e.css",
+    "main.js": "/mortgagesteam.github.io/product-selector/static/js/main.3e0481f2.js",
+    "static/media/HomeBanner.jpg": "/mortgagesteam.github.io/product-selector/static/media/HomeBanner.1632540e953a83df4904.jpg",
+    "static/media/ContactImage.png": "/mortgagesteam.github.io/product-selector/static/media/ContactImage.dc8d51c46f8e28e5195f.png",
+    "static/media/FactFindImage.jpg": "/mortgagesteam.github.io/product-selector/static/media/FactFindImage.5be524879cf8380dd5e7.jpg",
+    "static/media/AboutImage.jpg": "/mortgagesteam.github.io/product-selector/static/media/AboutImage.420d27b6f512584bcfe3.jpg",
+    "index.html": "/mortgagesteam.github.io/product-selector/index.html",
+    "main.55663f9e.css.map": "/mortgagesteam.github.io/product-selector/static/css/main.55663f9e.css.map",
+    "main.3e0481f2.js.map": "/mortgagesteam.github.io/product-selector/static/js/main.3e0481f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1982817.css",
-    "static/js/main.b7b010b6.js"
+    "static/css/main.55663f9e.css",
+    "static/js/main.3e0481f2.js"
   ]
 }
